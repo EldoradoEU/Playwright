@@ -1,9 +1,3 @@
-# Tests for GAD application
-
-## GAD Application
-
-Repository: https://github.com/jaktestowac/gad-gui-api-demo
-
 Follow instructions in app README
 
 ## Prepare
