@@ -13,7 +13,7 @@ export default defineConfig({
   reporter: 'html',
   use: {
     actionTimeout: 0,
-    trace: 'retain-on-failure',
+    trace: 'on',
     video: 'off',
     screenshot: 'only-on-failure',
   },
